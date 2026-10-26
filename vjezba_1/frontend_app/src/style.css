@@ -20,3 +20,13 @@ button {
   padding: 0.5rem 1rem;
   cursor: pointer;
 }
+
+.error {
+  color: #b3261e;
+}
+
+input {
+  font: inherit;
+  padding: 0.4rem;
+  margin-right: 0.5rem;
+}
