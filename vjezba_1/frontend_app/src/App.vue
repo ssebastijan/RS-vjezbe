@@ -46,7 +46,6 @@ onMounted(loadMenu)
 <template>
   <main>
     <h1>Raspodijeljeni sustavi: vježba 1</h1>
-    <p>Vue frontend (Render Static Site) komunicira s FastAPI backendom (Render Web Service).</p>
 
     <h2>Jelovnik</h2>
     <p v-if="loading">Učitavanje... (free backend se može buditi i do minute)</p>
