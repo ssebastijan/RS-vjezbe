@@ -1,0 +1,22 @@
+body {
+  font-family: system-ui, sans-serif;
+  background: #f4f6f8;
+  color: #1c2530;
+  margin: 0;
+}
+
+main {
+  max-width: 40rem;
+  margin: 4rem auto;
+  padding: 0 1rem;
+}
+
+h1 {
+  font-size: 1.6rem;
+}
+
+button {
+  font: inherit;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
