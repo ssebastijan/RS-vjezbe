@@ -9,4 +9,4 @@ Render settings (Static Site):
 - Build command: `npm install && npm run build`
 - Publish directory: `dist`
 
-Public URL: TODO (fill in after deploy)
+Public URL: https://unipu-rs-v1-fe-sakac.onrender.com
