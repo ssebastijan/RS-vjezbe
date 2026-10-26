@@ -15,4 +15,4 @@ Render settings (Web Service):
 - Build command: `pip install -r requirements.txt`
 - Start command: `uvicorn main:app --host 0.0.0.0 --port $PORT`
 
-Public URL: TODO (fill in after deploy)
+Public URL: https://unipu-rs-v1-be-sakac.onrender.com
