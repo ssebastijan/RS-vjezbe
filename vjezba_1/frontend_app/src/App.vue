@@ -48,7 +48,7 @@ onMounted(loadMenu)
     <h1>Raspodijeljeni sustavi: vježba 1</h1>
 
     <h2>Jelovnik</h2>
-    <p v-if="loading">Učitavanje... (free backend se može buditi i do minute)</p>
+    <p v-if="loading">Učitavanje...</p>
     <p v-if="error" class="error">{{ error }}</p>
     <ul>
       <li v-for="item in menu" :key="item.id">{{ item.name }}: {{ item.price.toFixed(2) }} €</li>
